@@ -3,7 +3,11 @@ Recommendation engine through various techniques to explore upselling opportunit
 
 
 
-Dataset:
+## Citation
+
+If you use this dataset, please cite:
+
+```bibtex
 @article{hou2024bridging,
   title={Bridging Language and Items for Retrieval and Recommendation},
   author={Hou, Yupeng and Li, Jiacheng and He, Zhankui and Yan, An and Chen, Xiusi and McAuley, Julian},
