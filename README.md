@@ -5,8 +5,6 @@ Recommendation engine through various techniques to explore upselling opportunit
 
 ## Citation
 
-If you use this dataset, please cite:
-
 ```bibtex
 @article{hou2024bridging,
   title={Bridging Language and Items for Retrieval and Recommendation},
